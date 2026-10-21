@@ -22,7 +22,7 @@ Cisco Introduction to Cybersecurity, januar 2025. Claude Academy: AI capabilitie
 Gjennomførte en full penetrasjonstest og dokumenterte 13 sårbarheter med CVSS-scoring og konkrete utbedringsforslag. Brukte Nmap, OWASP ZAP, SQLmap og Metasploit i test- og verifikasjonsfasen.
 
 **[Nettverksintrusjonsdeteksjon](https://github.com/alekdahl/network-intrusion-detection)**
-Bygget og evaluerte en maskinlæringsmodell som klassifiserer angrepstyper i nettverkstrafikk, basert på UNSW-NB15-datasettet. Arbeidet omfattet databehandling, modelltrening og vurdering av bias/variance-avveininger.
+Bygget og evaluerte maskinlæringsmodeller som klassifiserer angrepstyper i nettverkstrafikk, basert på UNSW-NB15-datasettet. Håndterte sterk klasseubalanse med class weights og SMOTE, og analyserte bias/variance-avveininger. Vurderte også modellen fra et SOC-perspektiv, med deteksjonsrate og antall falske alarmer per døgn, og viste at duplikater i datasettet ga for optimistiske resultater.
 
 ## Erfaring
 
