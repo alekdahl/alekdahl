@@ -6,6 +6,16 @@ Cybersikkerhetsstudent, Oslo
 
 Tredjeårsstudent i cybersikkerhet ved Høyskolen Kristiania. Jeg har hatt fag som cyberforsvar, skysikkerhet og etisk hacking, og lærer nå IoT/OT-sikkerhet og Governance, Risk and Compliance (GRC). Jeg har praktisk erfaring med kvalitetssikring av AI-genererte svar hos Concentrix, og rundt 8 års erfaring med selvstendig ansvar og teamarbeid fra detaljhandelen. Nå ønsker jeg en rolle der jeg kan bruke den brede sikkerhetskompetansen min i praksis.
 
+## Sertifiseringer
+
+<p>
+  <a href="https://www.credly.com/badges/20191ac8-65a6-498e-8608-6d0a0c8d9a38"><img src="badges/cisco-introduction-to-cybersecurity.png" alt="Cisco Introduction to Cybersecurity" height="150"></a>
+  <a href="https://academy.claude.com/verify/eb0857ace6602d6aea0a7b43b174e168"><img src="badges/ai-capabilities-and-limitations.png" alt="Claude Academy: AI capabilities and limitations" height="150"></a>
+  <a href="https://academy.claude.com/verify/848e0c44b32f5084ee5ae191882fd1a8"><img src="badges/ai-fluency-framework-foundations.png" alt="Claude Academy: AI Fluency: Framework and foundations" height="150"></a>
+</p>
+
+Cisco Introduction to Cybersecurity, januar 2025. Claude Academy: AI capabilities and limitations og AI Fluency: Framework and foundations, oktober 2026.
+
 ## Prosjekter
 
 **Penetrasjonstestrapport**
