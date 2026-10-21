@@ -18,11 +18,14 @@ Cisco Introduction to Cybersecurity, januar 2025. Claude Academy: AI capabilitie
 
 ## Prosjekter
 
-**Penetrasjonstestrapport**
-Gjennomførte en full penetrasjonstest og dokumenterte 13 sårbarheter med CVSS-scoring og konkrete utbedringsforslag. Brukte Nmap, OWASP ZAP, SQLmap og Metasploit i test- og verifikasjonsfasen.
-
 **[Nettverksintrusjonsdeteksjon](https://github.com/alekdahl/network-intrusion-detection)**
 Bygget og evaluerte maskinlæringsmodeller som klassifiserer angrepstyper i nettverkstrafikk, basert på UNSW-NB15-datasettet. Håndterte sterk klasseubalanse med class weights og SMOTE, og analyserte bias/variance-avveininger. Vurderte også modellen fra et SOC-perspektiv, med deteksjonsrate og antall falske alarmer per døgn, og viste at duplikater i datasettet ga for optimistiske resultater.
+
+**[AI-assistert triage av SOC-alarmer](https://github.com/alekdahl/soc-alert-triage)**
+Bygget en pipeline som kjører Windows-logger fra ekte angrep og fra en ren maskin gjennom over 4 500 Sigma-regler med Hayabusa, og lar Claude (Haiku og Sonnet) vurdere alarmene med strukturerte svar og MITRE ATT&CK-kobling. Laget fasit for 157 alarmer og målte resultatene: Sonnet oppdaget 94 % av angrepene og avfeide 92 % av de falske alarmene, mot 88 % og 82 % for Haiku til en fjortendedel av prisen.
+
+**Penetrasjonstestrapport**
+Gjennomførte en full penetrasjonstest og dokumenterte 13 sårbarheter med CVSS-scoring og konkrete utbedringsforslag. Brukte Nmap, OWASP ZAP, SQLmap og Metasploit i test- og verifikasjonsfasen.
 
 ## Erfaring
 
