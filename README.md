@@ -54,7 +54,7 @@ August 2022 – januar 2023
 
 ## Kompetanse
 
-- Sikkerhet: penetrasjonstesting, sårbarhetsanalyse, OWASP Top 10, MITRE ATT&CK, ISO/IEC 27001, NIST CSF
-- Verktøy: Kali Linux, Microsoft Azure, Nmap, SQLmap, OWASP ZAP, Metasploit, Kubernetes, Splunk
+- Sikkerhet: penetrasjonstesting, sårbarhetsanalyse, OWASP Top 10, OWASP Top 10 for LLM, MITRE ATT&CK, MITRE ATLAS, ISO/IEC 27001, NIST CSF
+- Verktøy: Kali Linux, Microsoft Azure, Microsoft Foundry, Nmap, SQLmap, OWASP ZAP, Metasploit, Kubernetes, Splunk
 - Programmering: Python, SQL, JavaScript, Java, HTML/CSS
 - Språk: norsk (morsmål), engelsk (flytende)
