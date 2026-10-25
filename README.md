@@ -18,6 +18,9 @@ Cisco Introduction to Cybersecurity, januar 2025. Claude Academy: AI capabilitie
 
 ## Prosjekter
 
+**[Sikring av AI-agent mot indirekte prompt injection](https://github.com/alekdahl/foundry-agent-injection-lab)**
+Bygget en dokumentassistent i Microsoft Foundry Agent Service som leser prosjektdokumenter og sender e-post, og testet den mot fem varianter av indirekte prompt injection. Målte fire forsvarslag (Prompt Shields, allowlist i verktøyet, herdet systemprompt og overvåking av verktøykall) hver for seg og samlet over 200 kjøringer: uten forsvar lekket agenten konfidensielle data i 60 % av angrepene, med alle lag i 0 %, uten falske blokkeringer. Viste at et oppdelt angrep slapp forbi både Prompt Shields og systemprompten, og at bare den deterministiske kontrollen i verktøyet stoppet det. Trusselmodellen er koblet til OWASP Top 10 for LLM og MITRE ATLAS.
+
 **[Nettverksintrusjonsdeteksjon](https://github.com/alekdahl/network-intrusion-detection)**
 Bygget og evaluerte maskinlæringsmodeller som klassifiserer angrepstyper i nettverkstrafikk, basert på UNSW-NB15-datasettet. Håndterte sterk klasseubalanse med class weights og SMOTE, og analyserte bias/variance-avveininger. Vurderte også modellen fra et SOC-perspektiv, med deteksjonsrate og antall falske alarmer per døgn, og viste at duplikater i datasettet ga for optimistiske resultater.
 
